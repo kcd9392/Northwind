@@ -9,7 +9,7 @@ public class NorthWindContext : DbContext
 {
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
-        optionsBuilder.UseMySQL("Server=localhost;Port=3306;Database=NorthWind;Uid=root;Pwd=4559yy**;");
+        optionsBuilder.UseMySQL();
     }
 
     public DbSet<Product> Products { get; set; }
