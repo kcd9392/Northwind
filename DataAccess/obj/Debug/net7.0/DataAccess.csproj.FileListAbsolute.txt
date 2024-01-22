@@ -17,3 +17,4 @@
 /Users/kubracanca/Desktop/Projeler/Northwind/DataAccess/obj/Debug/net7.0/DataAccess.pdb
 /Users/kubracanca/Desktop/Projeler/Northwind/DataAccess/obj/Debug/net7.0/DataAccess.genruntimeconfig.cache
 /Users/kubracanca/Desktop/Projeler/Northwind/DataAccess/obj/Debug/net7.0/ref/DataAccess.dll
+/Users/kubracanca/Desktop/Projeler/Northwind/DataAccess/obj/Debug/net7.0/DataAccess.sourcelink.json

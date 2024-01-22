@@ -13,3 +13,4 @@
 /Users/kubracanca/Desktop/Projeler/Northwind/Entities/obj/Debug/net7.0/refint/Entities.dll
 /Users/kubracanca/Desktop/Projeler/Northwind/Entities/obj/Debug/net7.0/Entities.pdb
 /Users/kubracanca/Desktop/Projeler/Northwind/Entities/obj/Debug/net7.0/ref/Entities.dll
+/Users/kubracanca/Desktop/Projeler/Northwind/Entities/obj/Debug/net7.0/Entities.sourcelink.json

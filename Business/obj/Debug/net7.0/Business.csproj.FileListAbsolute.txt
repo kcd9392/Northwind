@@ -19,3 +19,4 @@
 /Users/kubracanca/Desktop/Projeler/Northwind/Business/obj/Debug/net7.0/Business.pdb
 /Users/kubracanca/Desktop/Projeler/Northwind/Business/obj/Debug/net7.0/Business.genruntimeconfig.cache
 /Users/kubracanca/Desktop/Projeler/Northwind/Business/obj/Debug/net7.0/ref/Business.dll
+/Users/kubracanca/Desktop/Projeler/Northwind/Business/obj/Debug/net7.0/Business.sourcelink.json

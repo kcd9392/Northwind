@@ -10,3 +10,4 @@
 /Users/kubracanca/Desktop/Projeler/Northwind/Core/obj/Debug/net7.0/refint/Core.dll
 /Users/kubracanca/Desktop/Projeler/Northwind/Core/obj/Debug/net7.0/Core.pdb
 /Users/kubracanca/Desktop/Projeler/Northwind/Core/obj/Debug/net7.0/ref/Core.dll
+/Users/kubracanca/Desktop/Projeler/Northwind/Core/obj/Debug/net7.0/Core.sourcelink.json
